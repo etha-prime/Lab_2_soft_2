@@ -27,4 +27,8 @@ public class C implements G, F {
     public void bb() {
         System.out.println(42);
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
 }
