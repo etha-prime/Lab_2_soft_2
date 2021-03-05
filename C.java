@@ -35,4 +35,8 @@ public class C implements G, F {
     public void aa() {
         return;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

@@ -19,4 +19,8 @@ public class B {
     public int cc() {
         return 13;
     }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
 }
