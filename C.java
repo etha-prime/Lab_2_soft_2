@@ -31,4 +31,8 @@ public class C implements G, F {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
+    public void aa() {
+        return;
+    }
 }
