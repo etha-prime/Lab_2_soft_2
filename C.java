@@ -39,4 +39,8 @@ public class C implements G, F {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public long dd() {
+        return 99999;
+    }
 }
