@@ -27,4 +27,8 @@ public class B {
     public long ac() {
         return 111;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
