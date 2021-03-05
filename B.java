@@ -15,4 +15,8 @@ public class B {
     public Class qq() {
         return getClass();
     }
+
+    public int cc() {
+        return 13;
+    }
 }
