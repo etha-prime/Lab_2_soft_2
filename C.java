@@ -17,7 +17,7 @@ public class C implements G, F {
     }
 
     public int ae() {
-        return java.lang.Math.abs(-6);
+        return Math.abs(-6);
     }
 
     public String kk() {
@@ -26,5 +26,9 @@ public class C implements G, F {
 
     public void bb() {
         System.out.println(42);
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
 }
