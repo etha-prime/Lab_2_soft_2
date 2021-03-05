@@ -27,20 +27,4 @@ public class C implements G, F {
     public void bb() {
         System.out.println(42);
     }
-
-    public String nn() {
-        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
-    }
-
-    public void aa() {
-        return;
-    }
-
-    public Class qq() {
-        return getClass();
-    }
-
-    public long dd() {
-        return 99999;
-    }
 }
